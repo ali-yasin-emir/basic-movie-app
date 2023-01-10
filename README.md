@@ -1,4 +1,4 @@
-// Screenshots:
+Screenshots:
 
 ![image](https://user-images.githubusercontent.com/89742020/211432014-0c250fa6-ac71-4886-abc6-9d5ab5c2c12f.png)
 
