@@ -11,7 +11,7 @@ const App = () => {
   // const movie1 = movies[0];
 
   const searchMovies = async (title) => {
-    const API_URL = `http://www.omdbapi.com/?s=${title}&apikey=c06e2dce`;
+    const API_URL = `https://www.omdbapi.com/?s=${title}&apikey=c06e2dce`;
     const response = await fetch(API_URL);
     const data = await response.json();
     setMovies(data.Search);
