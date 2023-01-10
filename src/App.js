@@ -22,7 +22,7 @@ const App = () => {
   }, []);
 
   return (
-    <div className='container'>
+    <div className='app'>
       <h1>MovieLand</h1>
       <div className='container'>
         <div className='search'>
